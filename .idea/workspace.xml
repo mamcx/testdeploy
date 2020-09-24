@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e2f003e5-c658-4b93-9537-e722c6278cc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/rust.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/testdeploy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="settings.editor.selected.configurable" value="language.rust" />
   </component>
   <component name="RunManager">
@@ -48,6 +50,7 @@
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -68,6 +71,22 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="733" y="313" width="1098" height="954" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1600540605919" />
+    <state width="2486" height="370" key="GridCell.Tab.0.bottom" timestamp="1600579310148">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2486" height="370" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1600579310148" />
+    <state width="2486" height="370" key="GridCell.Tab.0.center" timestamp="1600579310147">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2486" height="370" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1600579310147" />
+    <state width="2486" height="370" key="GridCell.Tab.0.left" timestamp="1600579310147">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2486" height="370" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1600579310147" />
+    <state width="2486" height="370" key="GridCell.Tab.0.right" timestamp="1600579310147">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2486" height="370" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1600579310147" />
     <state x="438" y="108" key="SettingsEditor" timestamp="1600540622585">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
