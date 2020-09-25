@@ -33,13 +33,13 @@ jobs:
       matrix:
         include:
           - os: ubuntu-latest
-            artifact_name: tablam
+            artifact_name: testdeploy
             asset_name: tablam-linux-amd64
           - os: windows-latest
-            artifact_name: tablam.exe
+            artifact_name: testdeploy.exe
             asset_name: tablam-windows-amd64.exe
           - os: macos-latest
-            artifact_name: tablam
+            artifact_name: testdeploy
             asset_name: tablam-macos-amd64
     runs-on: ${{ matrix.os }}
     steps:
