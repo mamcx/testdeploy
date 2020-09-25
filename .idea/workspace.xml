@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e2f003e5-c658-4b93-9537-e722c6278cc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.github/workflows/rust.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/rust.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
